@@ -76,7 +76,7 @@
   - **Backend**: Django (Python) integrated with OpenAI’s Generative AI  
   - **Deployment**: Hosted on Heroku for quick demos  
 - **My Role**:  
-  - Developed both frontend and backend (request handling, AI model integration)  
+  - Contributed to both frontend and backend and also designed the logo and other appealing UI
   - Fine-tuned GPT to generate TikTok-friendly, engaging content  
 
 ---
