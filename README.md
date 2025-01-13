@@ -13,7 +13,6 @@
 - Passionate **Full Stack Developer** with a keen interest in **Machine Learning**  
 - Enthusiastic about solving real-world problems through creative, efficient, and user-centric solutions
 
----
 
 ## ⚙️ Skills & Technologies
 
@@ -32,7 +31,7 @@
 ![](https://img.shields.io/badge/Network-TCP/IP-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Tech-ML-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
 
----
+
 
 ## ⭐ Featured Projects
 
@@ -68,7 +67,6 @@
   - Ensured data integrity with efficient queries, foreign key constraints, indexing  
   - Implemented user authentication and role-based permissions  
 
----
 
 ## 🚀 Hackathon Project
 
@@ -81,7 +79,6 @@
   - Contributed to both frontend and backend and also designed the logo and other appealing UI
   - Fine-tuned GPT to generate TikTok-friendly, engaging content  
 
----
 
 ## 🎶 My Hobbies
 When I’m not coding, you’ll find me:
@@ -90,20 +87,19 @@ When I’m not coding, you’ll find me:
 - **Cooking**: Experimenting with flavors and cuisines  
 - **Music & Movie Lover**: Exploring new genres, artists, and films  
 - **Traveling**: Discovering cultures, foods, and scenic spots around the world  
-- **Self-Development & Wellness Advocate**: Practicing mindfulness and continuous personal growth  
-
----
+- **Self-Development & Wellness Advocate**: Practicing mindfulness and continuous personal growth
+- 
 
 ## 📞 Contact & More
 - **LinkedIn**: [Coulson Tu](https://www.linkedin.com/in/coulson-tu-5a836a244/)  
 
 > *I’m always open to collaboration or sharing ideas—feel free to reach out!*
 
----
+### Thanks for Visiting!
+Feel free to check out my repositories or drop me a message if you’d like to collaborate or just say hello!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"width="100%"/>
 </div>
 
-### Thanks for Visiting!
-Feel free to check out my repositories or drop me a message if you’d like to collaborate or just say hello!
+
