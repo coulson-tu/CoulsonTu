@@ -1,7 +1,7 @@
 <div align="center">
   <img 
        src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontAlignY=35&animation=twinkling"
-       width="auto"
+       width="100%"
   />
 </div>
 
