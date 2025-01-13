@@ -5,14 +5,12 @@
   />
 </div>
 
-
 # Hi there, I’m **Yuke Tu**, and I go by **Coulson**! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 ### About Me
 - **Master’s Student** in Computer Software Engineering at **Northeastern University**  
 - Passionate **Full Stack Developer** with a keen interest in **Machine Learning**  
 - Enthusiastic about solving real-world problems through creative, efficient, and user-centric solutions
-
 
 ## ⚙️ Skills & Technologies
 
@@ -31,8 +29,6 @@
 ![](https://img.shields.io/badge/Network-TCP/IP-informational?style=flat&logo=linux&logoColor=white&color=FCC624)
 ![](https://img.shields.io/badge/Tech-ML-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
 
-
-
 ## ⭐ Featured Projects
 
 ### 1. [Word Guess Game](https://github.com/coulson-tu/wordle.git)
@@ -45,7 +41,6 @@
   - Implemented the backend architecture (user authentication, session management)  
   - Developed React components for dynamic updates, hint usage, and leaderboard tracking  
 
-
 ### 2. [Machine Learning Project](https://github.com/coulson-tu/Machine-Learning-Fault-Diagnosis.git)
 - **Overview**: Developed an ML-based diagnostic model for bearing failures, incorporating robust data preprocessing, feature engineering, and advanced ML algorithms like SVM and ANN.
 - **Tech Highlights**:  
@@ -54,7 +49,6 @@
 - **My Contributions**:  
   - Designed and trained custom ML models to achieve high accuracy on real-world datasets  
   - Wrote a thesis comparing SVM and CNN/RNN performance in fault diagnosis  
-
 
 ### 3. [Student Management System](https://github.com/coulson-tu/student-management-system-Coulson.git)
 - **Overview**: A Java-based desktop application for educational institutions to manage student records efficiently.
@@ -67,7 +61,6 @@
   - Ensured data integrity with efficient queries, foreign key constraints, indexing  
   - Implemented user authentication and role-based permissions  
 
-
 ## 🚀 Hackathon Project
 
 ### [Scriptly (TikTok TechJam 2024)](https://devpost.com/software/scriptly)
@@ -79,7 +72,6 @@
   - Contributed to both frontend and backend and also designed the logo and other appealing UI
   - Fine-tuned GPT to generate TikTok-friendly, engaging content  
 
-
 ## 🎶 My Hobbies
 When I’m not coding, you’ll find me:
 - **Streetdancing**: Practicing freestyle and choreographed routines  
@@ -88,7 +80,6 @@ When I’m not coding, you’ll find me:
 - **Music & Movie Lover**: Exploring new genres, artists, and films  
 - **Traveling**: Discovering cultures, foods, and scenic spots around the world  
 - **Self-Development & Wellness Advocate**: Practicing mindfulness and continuous personal growth
-- 
 
 ## 📞 Contact & More
 - **LinkedIn**: [Coulson Tu](https://www.linkedin.com/in/coulson-tu-5a836a244/)  
@@ -101,5 +92,3 @@ Feel free to check out my repositories or drop me a message if you’d like to c
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"width="100%"/>
 </div>
-
-
