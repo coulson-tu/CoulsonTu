@@ -4,10 +4,13 @@
 
 # Hi there, I’m **Yuke Tu**, and I go by **Coulson**! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-### About Me
-- **Master’s Student** in Computer Software Engineering at **Northeastern University**  
-- Passionate **Full Stack Developer** with a keen interest in **Machine Learning**  
-- Enthusiastic about solving real-world problems through creative, efficient, and user-centric solutions
+<p align="center">
+  <em>
+    Master’s Student in Computer Software Engineering at <strong>Northeastern University</strong>.<br/>
+    Passionate <strong>Full Stack Developer</strong> with a keen interest in <strong>Machine Learning</strong>.<br/>
+    Enthusiastic about solving real-world problems through creative, efficient, and user-centric solutions.
+  </em>
+</p>
 
 ---
 
@@ -33,37 +36,35 @@
 ## ⭐ Featured Projects
 
 ### 1. [Word Guess Game](https://github.com/coulson-tu/wordle.git)
-- **Overview**: A web-based word puzzle game (inspired by Wordle) offering multiple difficulty levels, hints, and a leaderboard.  
-- **Tech Highlights**:
+- **Overview**: A web-based word puzzle game (inspired by Wordle) with multiple difficulty levels, hints, and a leaderboard.
+- **Tech Highlights**:  
   - **Frontend**: React + Vite  
   - **Backend**: Node.js + Express, with Cookie Parser for session handling  
   - **Gameplay**: Real-time feedback, hint system, and robust scoring mechanics  
-- **My Contributions**:
+- **My Contributions**:  
   - Implemented the backend architecture (user authentication, session management)  
   - Developed React components for dynamic updates, hint usage, and leaderboard tracking  
 
 ---
 
 ### 2. [Machine Learning Project](https://github.com/coulson-tu/Machine-Learning-Fault-Diagnosis.git)
-- **Overview**: A placeholder for showcasing an ML-focused project (e.g., image classification, NLP, recommendation systems).  
-- **Tech Highlights**:
+- **Overview**: Developed an ML-based diagnostic model for bearing failures, incorporating robust data preprocessing, feature engineering, and advanced ML algorithms like SVM and ANN.
+- **Tech Highlights**:  
   - **Tech Stack**: Python, TensorFlow/PyTorch, scikit-learn  
-  - **Models**: CNN/RNN or other specialized architectures  
-- **My Contributions** (examples):
-  - Designed and trained custom ML models to achieve high accuracy on a dataset  
-  - Deployed the model via Flask/Streamlit for easy user interaction  
-
-*(Replace with a real project once you finalize the details.)*
+  - **Models**: SVM, CNN/RNN, or other specialized architectures  
+- **My Contributions**:  
+  - Designed and trained custom ML models to achieve high accuracy on real-world datasets  
+  - Wrote a thesis comparing SVM and CNN/RNN performance in fault diagnosis  
 
 ---
 
 ### 3. [Student Management System](https://github.com/coulson-tu/student-management-system-Coulson.git)
-- **Overview**: A Java-based desktop application for managing student records in educational institutions.  
-- **Tech Highlights**:
+- **Overview**: A Java-based desktop application for educational institutions to manage student records efficiently.
+- **Tech Highlights**:  
   - **GUI**: Java Swing for user-friendly interactions  
   - **Database**: MySQL for robust data storage and real-time CRUD operations  
-  - **Security**: Role-based access control, data validation, constraint enforcement  
-- **My Contributions**:
+  - **Security**: Role-based access control, data validation, and constraint enforcement  
+- **My Contributions**:  
   - Designed an intuitive Swing interface (`JFrame`, `JPanel`, `JTable`)  
   - Ensured data integrity with efficient queries, foreign key constraints, indexing  
   - Implemented user authentication and role-based permissions  
@@ -73,13 +74,13 @@
 ## 🚀 Hackathon Project
 
 ### [Scriptly (TikTok TechJam 2024)](https://devpost.com/software/scriptly)
-- **Overview**: AI-powered platform generating TikTok “shooting recipes” (video scripts, scene/angle suggestions, etc.) based on user prompts.  
-- **Tech Highlights**:
-  - **Backend**: Django (Python), integrated with OpenAI’s Generative AI  
+- **Overview**: AI-powered platform generating TikTok “shooting recipes” (video scripts, scene/angle suggestions, etc.) based on user prompts.
+- **Tech Highlights**:  
+  - **Backend**: Django (Python) integrated with OpenAI’s Generative AI  
   - **Deployment**: Hosted on Heroku for quick demos  
-- **My Role**:
-  - Led backend development (request handling, AI model integration)  
-  - Fine-tuned GPT to generate compelling, TikTok-friendly content  
+- **My Role**:  
+  - Developed both frontend and backend (request handling, AI model integration)  
+  - Fine-tuned GPT to generate TikTok-friendly, engaging content  
 
 ---
 
@@ -88,8 +89,8 @@ When I’m not coding, you’ll find me:
 - **Streetdancing**: Practicing freestyle and choreographed routines  
 - **Gym Enthusiast & Runner**: Staying active with regular strength training and distance runs  
 - **Cooking**: Experimenting with flavors and cuisines  
-- **Music & Movie Lover**: Always discovering new genres, artists, and films  
-- **Traveling**: Exploring new cultures, food, and scenic spots  
+- **Music & Movie Lover**: Exploring new genres, artists, and films  
+- **Traveling**: Discovering cultures, foods, and scenic spots around the world  
 - **Self-Development & Wellness Advocate**: Practicing mindfulness and continuous personal growth  
 
 ---
@@ -97,7 +98,7 @@ When I’m not coding, you’ll find me:
 ## 📞 Contact & More
 - **LinkedIn**: [Coulson Tu](https://www.linkedin.com/in/coulson-tu-5a836a244/)  
 
-> *I’m always open to collaboration or sharing ideas. Feel free to reach out!*
+> *I’m always open to collaboration or sharing ideas—feel free to reach out!*
 
 ---
 
@@ -106,4 +107,4 @@ When I’m not coding, you’ll find me:
 </div>
 
 ### Thanks for Visiting!
-Feel free to check out my repositories or drop me a message if you’d like to collaborate or just say hello!  
+Feel free to check out my repositories or drop me a message if you’d like to collaborate or just say hello!
