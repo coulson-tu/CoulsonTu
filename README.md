@@ -46,7 +46,6 @@
   - Implemented the backend architecture (user authentication, session management)  
   - Developed React components for dynamic updates, hint usage, and leaderboard tracking  
 
----
 
 ### 2. [Machine Learning Project](https://github.com/coulson-tu/Machine-Learning-Fault-Diagnosis.git)
 - **Overview**: Developed an ML-based diagnostic model for bearing failures, incorporating robust data preprocessing, feature engineering, and advanced ML algorithms like SVM and ANN.
@@ -57,7 +56,6 @@
   - Designed and trained custom ML models to achieve high accuracy on real-world datasets  
   - Wrote a thesis comparing SVM and CNN/RNN performance in fault diagnosis  
 
----
 
 ### 3. [Student Management System](https://github.com/coulson-tu/student-management-system-Coulson.git)
 - **Overview**: A Java-based desktop application for educational institutions to manage student records efficiently.
