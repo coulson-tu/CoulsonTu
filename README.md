@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontAlignY=35&animation=twinkling" />
+  <img 
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20Profile!&fontSize=30&fontAlignY=35&animation=twinkling"
+       width="auto"
+  />
 </div>
+
 
 # Hi there, I’m **Yuke Tu**, and I go by **Coulson**! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
