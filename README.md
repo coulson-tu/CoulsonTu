@@ -104,7 +104,7 @@ When I’m not coding, you’ll find me:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"width="100%"/>
 </div>
 
 ### Thanks for Visiting!
