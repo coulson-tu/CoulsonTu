@@ -5,11 +5,9 @@
 # Hi there, I’m **Yuke Tu**, and I go by **Coulson**! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <p align="center">
-  <em>
     Master’s Student in Computer Software Engineering at <strong>Northeastern University</strong>.<br/>
     Passionate <strong>Full Stack Developer</strong> with a keen interest in <strong>Machine Learning</strong>.<br/>
     Enthusiastic about solving real-world problems through creative, efficient, and user-centric solutions.
-  </em>
 </p>
 
 ---
